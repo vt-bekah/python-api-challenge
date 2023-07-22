@@ -1,4 +1,4 @@
-# Mod5_Pymaceuticals
+# Mod6_Python_APIs
 This repository contains challenge files for UT DAV Bootcamp Module 6 Python APIs
 
 
