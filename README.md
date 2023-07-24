@@ -4,14 +4,14 @@ This repository contains challenge files for UT DAV Bootcamp Module 6 Python API
 
 # File Notes
 * WeatherPy folder contains the jupyter notebook and output data files created per the Instructions below.
- * WeatherPy.py is the jupyter notebook file that pulls random latitude and longitude combinations to identify cities across the world capturing max temperature, humidity, cloudiness, wind speed, country, and date of data collection. The data is analyzed for trends of latitude vs. max temperature, humidity, cloudiness, and wind speed.
- * VacationPy.py is the jupyter notebook file that takes the city list from WeatherPy and plots each one. Then I reduce the list by my desired parameters and search for nearby hotels. I plot the subset with hotel information added
- * output_data folder contains the output from WeatherPy as follows:
-   * Fig1.png is the scatter plot of latitude vs. max temperature (C) across all cities.
-   * Fig2.png is the scatter plot of latitude vs. humidity (%) across all cities.
-   * Fig3.png is the scatter plot of latitude vs. cloudiness (%) across all cities.
-   * Fig4.png is the scatter plot of latitude vs. wind speed (m/s) across all cities.
-   * cities.csv contains the dataframe with all the cities located near the random longitude, latitude coordinates including city ID, city, latitude, longitude, max temperature (C), humidity (%), cloudiness (%), wind speed (m/s), country abbreviation, and datecode for data collection time.
+   * WeatherPy.py is the jupyter notebook file that pulls random latitude and longitude combinations to identify cities across the world capturing max temperature, humidity, cloudiness, wind speed, country, and date of data collection. The data is analyzed for trends of latitude vs. max temperature, humidity, cloudiness, and wind speed.
+   * VacationPy.py is the jupyter notebook file that takes the city list from WeatherPy and plots each one. Then I reduce the list by my desired parameters and search for nearby hotels. I plot the subset with hotel information added
+   * output_data folder contains the output from WeatherPy as follows:
+      * Fig1.png is the scatter plot of latitude vs. max temperature (C) across all cities.
+      * Fig2.png is the scatter plot of latitude vs. humidity (%) across all cities.
+      * Fig3.png is the scatter plot of latitude vs. cloudiness (%) across all cities.
+      * Fig4.png is the scatter plot of latitude vs. wind speed (m/s) across all cities.
+      * cities.csv contains the dataframe with all the cities located near the random longitude, latitude coordinates including city ID, city, latitude, longitude, max temperature (C), humidity (%), cloudiness (%), wind speed (m/s), country abbreviation, and datecode for data collection time.
 * Start_Code folder contains the files provided in BCS/Canvas for completing the challenge.
    
 
